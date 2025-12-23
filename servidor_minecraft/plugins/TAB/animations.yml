@@ -1,0 +1,119 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lNombreDelServidor'
+  - '&c&n&lNombreDelServidor'
+  - '&b&lNombreDelServidor'
+  - '&b&l&nNombreDelServidor'
+  - '&e&lNombreDelServidor'
+  - '&e&n&lNombreDelServidor'
+
+web:
+  change-interval: 200
+  texts:
+  - '&etiktok.com/@nxs_xduranx'
+  - '&etiktok.com/@nxs_xduranx'
+  - '&etiktok.com/@nxs_xduranx'
+  - '&etiktok.com/@nxs_xduranx'
+  - '&etiktok.com/@nxs_xduranx'
+  - '&etiktok.com/@nxs_xduranx'
+  - '&6t&etikTok.com/@nxs_xduranx'
+  - '&et&6i&ektok.com/@nxs_xduranx'
+  - '&eti&6k&ektok.com/@nxs_xduranx'
+  - '&etik&6t&ekok.com/@nxs_xduranx'
+  - '&etikt&6o&ek.com/@nxs_xduranx'
+  - '&etiktok&6.&ecom/@nxs_xduranx'
+  - '&etiktok.&6c&eom/@nxs_xduranx'
+  - '&etiktok.c&6o&em/@nxs_xduranx'
+  - '&etiktok.co&6m&e/@nxs_xduranx'
+  - '&etiktok.com&6/&e@nxs_xduranx'
+  - '&etiktok.com/&6@&enxs_xduranx'
+  - '&etiktok.com/@&6n&exs_xduranx'
+  - '&etiktok.com/@n&6x&es_xduranx'
+  - '&etiktok.com/@nx&6s&e_xduranx'
+  - '&etiktok.com/@nxs&6_&exduranx'
+  - '&etiktok.com/@nxs_&6x&eduranx'
+  - '&etiktok.com/@nxs_x&6d&euranx'
+  - '&etiktok.com/@nxs_xd&6u&eranx'
+  - '&etiktok.com/@nxs_xdu&6r&eanx'
+  - '&etiktok.com/@nxs_xdur&6a&enx'
+  - '&etiktok.com/@nxs_xdura&6n&ex'
+  - '&etiktok.com/@nxs_xduran&6x'
+  - '&etiktok.com/@nxs_xduranx'
+
+vote:
+  change-interval: 1000
+  texts:
+  - '&avota.tudominio.com'
+  - '&a&nvota.tudominio.com'
+  - '&5vota.tudominio.com'
+  - '&5&nvota.tudominio.com'
+
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lB_'
+  - '&7&lB_'
+  - '&7&lBi_'
+  - '&7&lBien_'
+  - '&7&lBienv_'
+  - '&7&lBienve_'
+  - '&7&lBienven_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienven_'
+  - '&7&lBienve_'
+  - '&7&lBienv_'
+  - '&7&lBien_'
+  - '&7&lBi_'
+  - '&7&lB_'
+  - '&7&lB_'
+
+time:
+  change-interval: 3000
+  texts:
+    - '&7Hora &b%time%'
+    - '&7Fecha &b%date%'
+
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

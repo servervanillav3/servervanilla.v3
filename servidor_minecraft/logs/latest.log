@@ -1,0 +1,322 @@
+[19:48:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:48:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[19:48:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:48:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[19:48:59] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - SuperEnchants (3.2.0.1)
+[19:48:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.22.0-dev+49-000e6c5), LuckPerms (5.5.22), ProtectionStones (2.10.5), TAB (5.4.0), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4)
+[19:49:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enderaura' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Arrowstorm' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Flippers' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Harvester' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'DragonHunter' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ascend' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HellHunter' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Cubism' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Vanish' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dodge' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Predator' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Slaughter' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'SkullCrusher' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ninja' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Thanos' registered successfully.
+[19:49:06] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Consume' registered successfully.
+[19:49:06] [ServerMain/INFO]: Loaded 1290 recipes
+[19:49:07] [ServerMain/INFO]: Loaded 1399 advancements
+[19:49:07] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:49:07] [Server thread/INFO]: Loading properties
+[19:49:07] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:49:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:49:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:49:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:49:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:49:07] [Server thread/INFO]: Default game type: SURVIVAL
+[19:49:07] [Server thread/INFO]: Generating keypair
+[19:49:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:49:07] [Server thread/INFO]: Using epoll channel type
+[19:49:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:49:07] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[19:49:08] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[19:49:10] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74ac8bef]
+[19:49:10] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[19:49:10] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.22
+[19:49:11] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:49:11] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[19:49:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+49-000e6c5
+[19:49:12] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.4.0
+[19:49:12] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v3.2.0.1
+[19:49:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:49:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[19:49:12] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:49:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:49:13] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[19:49:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.22
+[19:49:14] [Server thread/INFO]:         __    
+[19:49:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.22
+[19:49:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:49:14] [Server thread/INFO]: 
+[19:49:14] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:49:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:49:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:49:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1209ms)
+[19:49:15] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v3.2.0.1
+[19:49:15] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v3.2.0.1 by Aznos
+[19:49:15] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[19:49:15] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[19:49:15] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_ru.yml to plugins/SuperEnchants/lang_ru.yml because lang_ru.yml already exists.
+[19:49:15] [Server thread/WARN]: [SuperEnchants] Could not save lang_pirate.yml to plugins/SuperEnchants/lang_pirate.yml because lang_pirate.yml already exists.
+[19:49:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:49:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:49:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:49:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:49:15] [Server thread/INFO]: Preparing level "world"
+[19:49:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:49:30] [Server thread/INFO]: Time elapsed: 13181 ms
+[19:49:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:49:30] [Server thread/INFO]: Time elapsed: 251 ms
+[19:49:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:49:30] [Server thread/INFO]: Time elapsed: 117 ms
+[19:49:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:49:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:49:30] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:49:31] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[19:49:31] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[19:49:31] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[19:49:31] [Server thread/WARN]: [ProtectionStones] Vault not enabled! There will be no economy support!
+[19:49:31] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI not found! There will be no PlaceholderAPI support.
+[19:49:31] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[19:49:31] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[19:49:31] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (35)
+[19:49:31] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (20)
+[19:49:31] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[19:49:31] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (30)
+[19:49:31] [Server thread/WARN]: [ProtectionStones] Vault is not enabled! Economy functions (renting & buying) will not work!
+[19:49:31] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[19:49:31] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[19:49:31] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[19:49:31] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[19:49:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+49-000e6c5
+[19:49:32] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[19:49:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:49:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[19:49:33] [Server thread/INFO]: [Essentials] Loaded 46309 items from items.json.
+[19:49:33] [Server thread/INFO]: [Essentials] Using locale en
+[19:49:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:49:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:49:34] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[19:49:34] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[19:49:34] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:49:34] [Server thread/INFO]: [TAB] Enabling TAB v5.4.0
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] placeholder-refresh-intervals: Missing configuration section "placeholder-refresh-intervals.default-refresh-interval" of type Integer, using default value 500.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] placeholders: Missing configuration section "placeholders.date-format" of type String, using default value dd.MM.yyyy.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] placeholders: Missing configuration section "placeholders.time-format" of type String, using default value [HH:mm:ss / h:mm a].
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] placeholders: Missing configuration section "placeholders.time-offset" of type Number, using default value 0.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] components: Missing configuration section "components.minimessage-support" of type Boolean, using default value true.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] components: Missing configuration section "components.disable-shadow-for-heads" of type Boolean, using default value true.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] bossbar: Missing configuration section "bossbar.remember-toggle-choice" of type Boolean, using default value false.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] bossbar: Missing configuration section "bossbar.hidden-by-default" of type Boolean, using default value false.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] playerlist-objective: Missing configuration section "playerlist-objective.disable-condition" of type String, using default value %world%=disabledworld.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.toggle-command" of type String, using default value /sb.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.remember-toggle-choice" of type Boolean, using default value false.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.hidden-by-default" of type Boolean, using default value false.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.use-numbers" of type Boolean, using default value true.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.static-number" of type Integer, using default value 0.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Missing configuration section "scoreboard.delay-on-join-milliseconds" of type Integer, using default value 0.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] tablist-name-formatting: Missing configuration section "tablist-name-formatting.disable-condition" of type String, using default value %world%=disabledworld.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard-teams: Missing configuration section "scoreboard-teams.disable-condition" of type String, using default value %world%=disabledworld.
+[19:49:34] [Server thread/INFO]: [TAB] [WARN] Found a total of 17 issues.
+[19:49:34] [Server thread/INFO]: [TAB] Enabled in 707ms
+[19:49:35] [Server thread/INFO]: [spark] Starting background profiler...
+[19:49:35] [Server thread/INFO]: Done preparing level "world" (19.897s)
+[19:49:35] [Server thread/INFO]: Running delayed init tasks
+[19:49:35] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:49:35] [Server thread/INFO]: Done (39.792s)! For help, type "help"
+[19:49:35] [Server thread/INFO]: Timings Reset
+[19:49:35] [User Authenticator #0/INFO]: UUID of player NXS_XMALDITOX is 6dd88214-8787-3f63-8211-78a9a8fdc591
+[19:49:37] [Server thread/INFO]: NXS_XMALDITOX joined the game
+[19:49:37] [Server thread/INFO]: NXS_XMALDITOX[/127.55.153.252:33281] logged in with entity id 20 at ([world]0.5, 67.0, -8.5)
+[19:49:55] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps home
+[19:49:59] [Server thread/INFO]: NXS_XMALDITOX issued server command: /gamemode creative
+[19:50:22] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps home ps0x66y0z
+[19:51:25] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps flag mob-spawning deny
+[19:51:30] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[19:51:37] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps view
+[19:51:48] [Server thread/INFO]: NXS_XMALDITOX issued server command: /gamemode survival
+[19:51:51] [Server thread/INFO]: NXS_XMALDITOX issued server command: /gamemode creative
+[19:52:15] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps view
+[19:52:45] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #region grass_block
+[19:53:13] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps view
+[19:53:54] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #air barrier
+[19:55:30] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #air barrier
+[19:56:06] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #air barrier
+[19:56:20] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #air barrier
+[19:56:54] [Server thread/INFO]: NXS_XMALDITOX issued server command: //replace #region barrier
+[19:57:34] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps flag
+[20:00:03] [Server thread/INFO]: NXS_XMALDITOX has made the advancement [Glow and Behold!]
+[20:00:57] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps give 20 NXS_XMALDITOX
+[20:01:03] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps give 30
+[20:01:08] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps give 30 NXS_XMALDITOX
+[20:01:13] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps give 35
+[20:01:18] [Server thread/INFO]: NXS_XMALDITOX issued server command: /ps give 35 NXS_XMALDITOX
+[20:11:07] [Server thread/INFO]: NXS_XMALDITOX issued server command: /lp group viewer permission set essentials.tpa true
+[20:11:07] [luckperms-command-executor/INFO]: [LP] LOG > (NXS_XMALDITOX) [G] (viewer)
+[20:11:07] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpa true
+[20:11:14] [Server thread/INFO]: NXS_XMALDITOX issued server command: /lp group viewer permission set essentials.tpaccept true
+[20:11:14] [luckperms-command-executor/INFO]: [LP] LOG > (NXS_XMALDITOX) [G] (viewer)
+[20:11:14] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpaccept true
+[20:11:23] [Server thread/INFO]: NXS_XMALDITOX issued server command: /lp group viewer permission set essentials.tpdeny true
+[20:11:23] [luckperms-command-executor/INFO]: [LP] LOG > (NXS_XMALDITOX) [G] (viewer)
+[20:11:23] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.tpdeny true
+[20:12:31] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:12:44] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:12:48] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:12:50] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:17:18] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:17:30] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 3
+[20:17:46] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:17:48] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:17:51] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:17:52] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant protection 1
+[20:18:01] [Server thread/INFO]: NXS_XMALDITOX has made the advancement [Getting an Upgrade]
+[20:18:14] [Server thread/INFO]: NXS_XMALDITOX issued server command: /enchant sharpness 1
+[20:20:59] [Server thread/INFO]: Stopping the server
+[20:20:59] [Server thread/INFO]: Stopping server
+[20:20:59] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v3.2.0.1
+[20:20:59] [Server thread/INFO]: [TAB] Disabling TAB v5.4.0
+[20:20:59] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:20:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+49-000e6c5
+[20:20:59] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.5
+[20:20:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.22
+[20:20:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:20:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:20:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:20:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[20:20:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:20:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[20:20:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:20:59] [Server thread/INFO]: Saving players
+[20:20:59] [Server thread/INFO]: NXS_XMALDITOX lost connection: Server closed
+[20:20:59] [Server thread/INFO]: NXS_XMALDITOX left the game
+[20:20:59] [Server thread/INFO]: Saving worlds
+[20:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:20:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:20:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:20:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Saved 1053 block chunks, 442 entity chunks, 2 poi chunks in world 'world' in 1.12s
+[20:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[20:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:21:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:21:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:21:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:21:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:21:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

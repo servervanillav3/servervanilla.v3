@@ -1,0 +1,94 @@
+header-footer:
+  enabled: true
+  designs:
+    default:
+      header:
+      - <#FFFFFF>&m                                                </#FFFF00>
+      - '&3&lServer name'
+      - '&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<'
+      - '&r&7Online players: &f%online%'
+      - '&6Online staff: &e%staffonline%'
+      - ''
+      footer:
+      - '%animation:time%'
+      - '&2Ping: %ping%'
+      - '&r&7Visit our webpage &bwww.tiktok.com/@nxs_xduranx'
+      - <#FFFFFF>&m                                                </#FFFF00>
+tablist-name-formatting:
+  enabled: true
+scoreboard-teams:
+  enabled: true
+  enable-collision: true
+  invisible-nametags: false
+  sorting-types:
+  - GROUPS:owner,mod,og,viewer
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: false
+  can-see-friendly-invisibles: false
+playerlist-objective:
+  enabled: true
+  value: '%ping%'
+  fancy-value: '&7Ping: %ping%'
+  title: TAB
+  render-type: INTEGER
+bossbar:
+  enabled: true
+  toggle-command: /bossbar
+  bars:
+    ServerInfo:
+      style: PROGRESS
+      color: '%animation:barcolors%'
+      progress: '100'
+      text: '&bwww.tiktok.com/@nxs_xduranx'
+scoreboard:
+  enabled: true
+  scoreboards:
+    scoreboard:
+      title: <#E0B11E>MyServer</#FF0000>
+      lines:
+      - '&7%date%'
+      - '%animation:MyAnimation1%'
+      - '&6Online:'
+      - '* &eOnline&7: &f%online%'
+      - '* &eStaff&7: &f%staffonline%'
+      - ''
+      - '&6Personal Info:'
+      - '* &bRank&7: &f%luckperms-prefix%'
+      - '* &bPing&7: &f%ping%&8ms'
+      - '* &bWorld&7: &f%world%'
+      - '%animation:MyAnimation1%'
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- owner
+- mod
+- og
+- viewer
+permission-refresh-interval: 1000
+debug: false
+config-version: 2
+prevent-spectator-effect:
+  enabled: false
+use-online-uuid-in-tablist: true
+proxy-support:
+  enabled: true
+  type: PLUGIN
+  plugin:
+    name: RedisBungee
+compensate-for-packetevents-bug: false
+belowname-objective:
+  fancy-value-default: NPC
+  fancy-value: '&c%health%'
+  enabled: false
+placeholders:
+  register-tab-expansion: false
+global-playerlist:
+  update-latency: false
+  enabled: false
+layout:
+  enabled: false
+mysql:
+  enabled: false
+per-world-playerlist:
+  enabled: false
+ping-spoof:
+  enabled: false

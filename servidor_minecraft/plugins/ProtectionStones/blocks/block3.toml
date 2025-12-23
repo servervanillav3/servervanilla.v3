@@ -1,0 +1,85 @@
+# =========================================================
+# PROTECTION STONE — 30 x 200 x 30
+# Archivo sugerido: ps_30.toml
+# =========================================================
+type = "GOLD_ORE"
+alias = "30"
+description = "30x200x30 protection zone."
+restrict_obtaining = true
+world_list_type = "blacklist"
+worlds = ["exampleworld1", "exampleworld2"]
+prevent_block_place_in_restricted_world = true
+allow_placing_in_wild = true
+placing_bypasses_wg_passthrough = true
+
+[region]
+	distance_between_claims = -1
+	x_radius = 30
+	y_radius = 200
+	z_radius = 30
+	chunk_radius = -1
+	home_x_offset = 0.0
+	home_y_offset = 1.0
+	home_z_offset = 0.0
+	flags = ["pvp deny", "tnt deny", "greeting &lEntering &b&l%player%'s &f&lprotected area", "farewell &lLeaving &b&l%player%'s &f&lprotected area", "greeting-action &lEntering &b&l%player%'s &f&lprotected area", "farewell-action &lLeaving &b&l%player%'s &f&lprotected area", "creeper-explosion deny", "wither-damage deny", "ghast-fireball deny"]
+	allowed_flags = ["-g all pvp", "greeting", "greeting-title", "greeting-action", "farewell", "farewell-title", "farewell-action", "mob-spawning", "creeper-explosion", "wither-damage", "ghast-fireball"]
+	hidden_flags_from_info = ["ps-name", "ps-merged-regions", "ps-merged-regions-types", "ps-block-material", "ps-price", "ps-landlord", "ps-tenant", "ps-rent-period", "ps-rent-last-paid", "ps-for-sale", "ps-rent-settings", "ps-tax-payments-due", "ps-tax-last-payment-added", "ps-tax-autopayer"]
+	priority = 0
+	allow_overlap_unowned_regions = false
+	allow_other_regions_to_overlap = "owner"
+	allow_merging = true
+	allowed_merging_into_types = ["all"]
+
+[block_data]
+	display_name = "&a&m<---&r&b 30 Radius Protection Block &r&a&m--->"
+	lore = ["&6(⌐■_■)ノ♪ Nobody's going to touch my stuff!"]
+	enchanted_effect = false
+	price = 0.0
+	allow_craft_with_custom_recipe = false
+	recipe_amount = 1
+	custom_model_data = -1
+	# Specify the custom crafting recipe below
+	# You must fill the item spots with names from here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+	# You can also use other protection stone items as ingredients in the recipe, in the format PROTECTION_STONES:alias
+	# Make sure that you set allow_use_in_crafting for that block to true, or else you can't use it in crafting
+	# If you want air, you can just leave the spot as ""
+	custom_recipe = [["", "STONE", ""], ["STONE", "EMERALD", "STONE"], ["", "STONE", ""]]
+
+[economy]
+	tax_amount = 0.0
+	tax_period = -1
+	tax_payment_time = 86400
+	start_with_tax_autopay = true
+	tenant_rent_role = "member"
+	landlord_still_owner = false
+
+[behaviour]
+	auto_hide = false
+	auto_merge = false
+	no_drop = false
+	prevent_piston_push = true
+	prevent_explode = true
+	destroy_region_when_explode = false
+	prevent_silk_touch = false
+	cost_to_place = 0.0
+	allow_smelt_item = false
+	allow_use_in_crafting = false
+
+[player]
+	allow_shift_right_break = false
+	prevent_teleport_in = false
+	no_moving_when_tp_waiting = true
+	tp_waiting_seconds = 0
+	prevent_ps_get = false
+	prevent_ps_home = false
+	permission = ""
+
+[event]
+	enable = false
+	# Execute commands when a region is created (ex. player place protection block)
+	# Variables: %player%, %world%, %region%, %block_x%, %block_y%, %block_z%
+	on_region_create = ["global_message: &l%player% created the region %region%!"]
+	# Execute commands when a region is destroyed (ex. when player destroy protection block)
+	# Variables: %player%, %world%, %region%, %block_x%, %block_y%, %block_z%
+	on_region_destroy = ["console_command: say %player% has destroyed region %region%!"]
+

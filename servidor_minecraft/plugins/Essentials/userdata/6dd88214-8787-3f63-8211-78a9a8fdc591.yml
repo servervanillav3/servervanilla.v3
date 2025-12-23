@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.55.153.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766521259524
+  login: 1766519377502
+money: '0'
+last-account-name: NXS_XMALDITOX
+logoutlocation:
+  world: 53de31d3-10d4-488c-99ab-08e30d814329
+  world-name: world
+  x: -12.426915180789505
+  y: 68.0
+  z: -16.851733319894443
+  yaw: -172.2073974609375
+  pitch: 12.750052452087402

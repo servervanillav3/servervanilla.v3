@@ -1,0 +1,15 @@
+owner:
+  tabprefix: '&4&l[OWNER] &c'
+  tagprefix: '&4&lOWNER &c'
+
+mod:
+  tabprefix: '&2&l[MOD] &a'
+  tagprefix: '&2&lMOD &a'
+
+og:
+  tabprefix: '&6&l[OG] &e'
+  tagprefix: '&6&lOG &e'
+
+viewer:
+  tabprefix: '&7&l[VIEWER] &f'
+  tagprefix: '&7&lVIEWER &f'
